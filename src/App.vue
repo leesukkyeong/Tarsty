@@ -1,10 +1,28 @@
 <template>
+<div id="app">
+  <TitleComponent></TitleComponent>
   <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link to="/">홈</router-link> |
+    <router-link to="/wine">와인</router-link> |
+    <router-link to="/dining">다이닝</router-link> |
+    <router-link to="/about">탈스티소개</router-link> |
+    <router-link to="/location">매장안내</router-link>
   </nav>
   <router-view/>
+</div>
 </template>
+
+<script>
+import TitleComponent from './components//Title'
+
+  export default {
+    components: {
+     TitleComponent
+    },
+  }
+
+</script>
+
 
 <style>
 #app {
@@ -16,15 +34,19 @@
 }
 
 nav {
-  padding: 30px;
+  padding: 18px;
+  background-color: black;
+  width: 100%;
+  height: 10px;
 }
 
 nav a {
   font-weight: bold;
-  color: #2c3e50;
+  color: white;
 }
 
 nav a.router-link-exact-active {
   color: #42b983;
 }
+
 </style>
