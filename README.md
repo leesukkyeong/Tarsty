@@ -32,8 +32,8 @@ ___
 <img width="400" alt="9" src="https://user-images.githubusercontent.com/104298444/213199429-a0889e37-9746-470d-b380-354a3e0a4c47.png">
 <img width="400" alt="10" src="https://user-images.githubusercontent.com/104298444/213199443-44cac298-38ae-4d3b-acdb-2a6b53ddfbf0.png">
 </details>
-
 <br></br>
+
 ## 프로젝트 개요
 ___
 #### 주제선정 이유
@@ -59,7 +59,6 @@ Deploy
 * <img src="https://camo.githubusercontent.com/d40fd7f6edc4413e104086306f702da23cb25df8d6b6f47c9219dd781151cf82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e65746c6966792d3030433742373f7374796c653d666f722d7468652d6261646765266c6f676f3d4e65746c696679266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&amp;logo=Netlify&amp;logoColor=white" style="max-width: 100%; user-select: auto;">
 개발 도구
 * <img src="https://camo.githubusercontent.com/fdb91eb7d32ba58701c8e564694cbe60e706378baefa180dbb96e2c1cfb9ec0f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d476974266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=Git&amp;logoColor=white" style="max-width: 100%; user-select: auto;"><img src="https://camo.githubusercontent.com/4c8ff408d7b8658d244e8dc7a764f24381721f63654652aa2a05639b3b5cc943/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=GitHub&amp;logoColor=white" style="max-width: 100%; user-select: auto;">
-
 <br></br>
 ## Git Commit & PR Message
 ___
