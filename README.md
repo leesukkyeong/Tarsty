@@ -3,7 +3,7 @@
 ## 배포링크
 ___
 개발 기간(2023.01.07-2023.01.18 1.5주)\
-[Tarsty홈페이지]()
+[Tarsty홈페이지](https://elaborate-panda-8af2da.netlify.app/)
 <br></br>
 ## 화면 이미지
 ___
